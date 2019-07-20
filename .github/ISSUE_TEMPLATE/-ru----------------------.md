@@ -1,7 +1,7 @@
 ---
 name: "(RU) Предложить свою идею"
 about: Предложить что-то новое для DayZ Ultimate
-title: "[sug] "
+title: ''
 labels: suggestion
 assignees: ''
 

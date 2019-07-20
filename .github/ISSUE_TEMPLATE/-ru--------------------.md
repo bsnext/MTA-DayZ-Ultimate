@@ -1,8 +1,8 @@
 ---
 name: "(RU) Сообщить об ошибке"
 about: Сообщить об ошибке на русском языке.
-title: "[bug]"
-labels: bug
+title: ''
+labels: ''
 assignees: ''
 
 ---

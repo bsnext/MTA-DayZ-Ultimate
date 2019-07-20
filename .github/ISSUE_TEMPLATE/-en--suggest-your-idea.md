@@ -1,7 +1,7 @@
 ---
 name: "(EN) Suggest your idea"
 about: Suggest an idea for DayZ Ultimate
-title: "[sug]"
+title: ''
 labels: suggestion
 assignees: ''
 
