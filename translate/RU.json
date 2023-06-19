@@ -189,7 +189,7 @@
         ["airdrop.cancelled", "Поставка отменяется. Необходимо %s игроков."],
         ["airdrop.request", "Получен запрос на поставку в штат."],
         ["bombing.warning.1", "Warning! The bombing soon will started somewhere."],
-        ["bombing.warning.2", "Check the map and be careful."],
+        ["bombing.warning.2", "Следите за картой и будьте осторожны."],
         ["bombing.ended", "The bombing is over! I hope everyone is alive?"],
         ["crash.military.1", "I thought I heard a helicopter falling."],
         ["crash.military.2", "Think its down near the %s."],
