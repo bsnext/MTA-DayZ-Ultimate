@@ -1,4 +1,4 @@
-<h1>MTA DayZ Ultimate.</h1>
+<h1>MTA DayZ Ultimate</h1>
 
 <h3>Public issues for a project:</h3>
 https://github.com/salwador/MTA-DayZ-Ultimate-Dev <b>(Private)</b>
@@ -13,3 +13,7 @@ Discord: http://discord.gg/zsT3pdX
 <br>
 Facebook: https://fb.com/dayzultimate <b>(Temporary forgotten)</b>
 
+<h1>Translating</h1>
+<b>1.</b> Do not remove the <b>\n</b> parts from text. It used as new line char for split text.
+<br>
+<b>2.</b> Do not remove the <b>%s</b> parts from text. It used for text formatting.
