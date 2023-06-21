@@ -270,7 +270,7 @@
         ["veh.nogas", "There is no gasoline in the fuel tank."],
         ["veh.nokerosene", "There is no kerosene in the fuel tank."],
         ["veh.not.engine", "An engine must be installed on this vehicle."],
-        ["veh.not.tire", "An engine must be installed on this vehicle."],
+        ["veh.not.tire", "An tire must be installed on this vehicle."],
         ["veh.not.rotor", "An rotor must be installed on this vehicle."],
         ["veh.not.scrap", "An scrap metal must be installed on this vehicle."],
         ["veh.not.shaft", "An shaft must be installed on this vehicle."],
