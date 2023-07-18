@@ -17,3 +17,6 @@ Facebook: https://fb.com/dayzultimate <b>(Temporary forgotten)</b>
 <b>1.</b> Do not remove the <b>\n</b> parts from text. It used as new line char for split text.
 <br>
 <b>2.</b> Do not remove the <b>%s</b> parts from text. It used for text formatting.
+
+<h1>Contributors</h1>
+<a href="https://github.com/salwador">@salwador</a>, <a href="https://github.com/Emre-31">@Emre-31</a>, <a href="https://github.com/loowzz">@loowz</a>
