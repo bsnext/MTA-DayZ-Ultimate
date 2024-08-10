@@ -336,7 +336,7 @@
         ["shop.coupon", "Activate coupon"],
         ["shop.base", "Rent base"],
         ["shop.main", "Shop"],
-        ["shop.balance", "Your balance:"],
+        ["shop.back", "Back"],
 
         ["buybase.rent.nomoney", "You do not have enough BC to buy the base %s."],
         ["buybase.extend.nomoney", "You do not have enough BC to renew the base %s."],
@@ -381,6 +381,9 @@
         ["coupon.activate", "Activate"],
         ["coupon.back", "Back"],
 
+        ["placer.ready", "Press \"%s\" for place object."],
+        ["placer.error", "Object can not be placed here."],
+
         ["blip.hospital", "Hospital"],
         ["blip.gasoline", "Gas Station"],
         ["blip.kerosene", "Kerosene Barrel"],
@@ -396,9 +399,9 @@
         ["blip.helicrash", "Exploded Military Helicopter"],
         ["blip.civcrash", "Exploded Helicopter"],
         ["blip.airdrop", "AirDrop"],
-        ["blip.bombing", "Area Under Bombing"],
-        
+        ["blip.bombing", "Area Under Bombing"],        
         ["blip.base", "%s Base\n%s\nCheck the shop menu for get information about rentals."],
+        
 
         ["ship.desc.1", "Survivors! After %s min. a ship will enter to San Andreas."],
         ["ship.desc.2", "There are mercenaries and crates of supplies on board."],
